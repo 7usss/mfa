@@ -72,7 +72,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="fffffffffffffffff"
+        android:text="Blood Donation"
         android:textColor="#DAA3121E"
         android:textSize="20dp"
         android:textStyle="bold"
